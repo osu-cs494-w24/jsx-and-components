@@ -1,0 +1,11 @@
+.my-div {
+    border: 2px solid black;
+    padding: 10px;
+}
+
+.card {
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 3px;
+    margin: 5px;
+}
